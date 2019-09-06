@@ -1,0 +1,91 @@
+
+.draweraccordion .accordion__title
+{
+  background:transparent;
+  position: relative;
+  display: block;
+  width: 100%;
+  
+}
+
+.draweraccordion .accordion__title h5
+{
+  color: #666;
+  font-size:1.5em;
+  font-family: Artifakt Element Medium
+}
+.draweraccordion .accordion__title:after,
+.draweraccordion .accordion__title:before {
+  content: '';
+
+  position: absolute;
+  right: 25px;
+  top:15%;
+  width: 20px;
+  height: 20px;
+}
+
+.draweraccordion .accordion__title[aria-selected='true'] {
+    background: transparent
+} 
+.draweraccordion .accordion__body
+{
+    background: none;
+    padding:0 20px;
+    max-height: unset
+}
+.productmenu 
+{
+   padding: 0
+}
+.productmenu li
+{
+    list-style: none
+}
+.draweraccordion .accordion__title::before {
+  background: url(icons/arrows.png) no-repeat;
+  background-size: contain;
+  transform: rotate(0deg) translateY(10px);
+  transform-origin: center center;
+  transition: transform 0s cubic-bezier(0.65, 0.05, 0.36, 1);
+
+}
+.draweraccordion .accordion__title[aria-selected='true']::before {
+    background: url(icons/arrows.png) no-repeat;
+    background-size: contain;
+    transform: rotate(-180deg);
+    transform-origin: center center;
+}
+
+.accordion__title:focus {
+  outline: none;
+}
+.draweraccordion .accordion__body--hidden
+{
+   max-height: 0
+}
+.drawerlist
+{
+    list-style-type: none;
+    padding-left: 15px;
+}
+.drawerlist li a
+{
+    color: #666;
+    margin-bottom: 10px;
+    display: inline-block
+}
+.drawersocialicon li a
+{
+   
+}
+.drawersocialicon li
+{
+    border-right: 1px solid #666;
+    padding:5px 10px
+  
+}
+.drawersocialicon li:last-child
+{
+  border-right: 0
+}

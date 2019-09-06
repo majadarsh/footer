@@ -1,0 +1,570 @@
+@media screen and (max-width: 1199.98px) 
+{
+    
+    html
+    {
+      font-size: 14px
+    }
+    body
+    {
+        font-size: 14px!important
+    }
+    p
+    {
+       font-size: 1rem
+    }
+    .container-fluid
+    {
+      padding-left: 15px;
+      padding-right: 15px;
+      width: 100%
+    }
+    .banner
+    {
+      margin-top:80px
+    }
+
+    .mobilemenu img
+    {
+      width: 20px
+    }
+    .navbar-toggler img.open
+    {
+      transform: rotate(180deg);
+    }
+    .material-icons
+    {
+      font-size: 28px
+    }
+    .menubar h5,.topbar .navbar-brand
+    {
+      padding-left:1rem
+    }
+    .dropdown-menu
+    {
+        width: 100%;
+        margin: 0
+    }
+    .menubar .dropdown:hover::after, .menubar li.active::after
+    {
+       content: unset
+    }
+    .menubar .navbar-nav .nav-link {
+        padding:0.5rem 1rem;
+    }
+    .mobilemenu
+    {
+      display: none
+    }
+    .mobilemenu .btn-link
+    {
+      padding-left:2px
+    }
+    
+    .moreFeatures .tab-content
+    {
+
+    }
+    .banner h1 {
+      font-size:2rem;
+    }
+    .banner p
+    {
+      font-size:0.9375rem;
+    }
+   
+
+  .slick-slide img
+  {
+    width: 95%;
+    cursor: pointer
+  }
+ 
+  .mobiletoolset
+  {
+     display: none
+  }
+ 
+  .suboverlay
+  {
+       bottom: unset;
+       top: 0;
+       height: 100vh;
+       overflow-y: scroll
+  }
+  .moreFeatures .nav .nav-item
+  {
+     
+  }
+  .css-sourceMap-modules-importLoaders-1-localIdentName-ReactDrawer__drawer-right___h_uSC-sass
+  {
+     width: 100%
+  }
+  .moreFeatures .nav .nav-item a
+  {
+     height: auto;
+     padding: 1rem;
+     font-size: 1rem;
+  }
+  .moreFeatures .nav .nav-item a::after, .moreFeatures .nav .nav-item a.active::after
+  {
+    top: 18px
+  }
+ 
+  .videoSection .videoDuration
+  {
+     float: left!important;
+     margin-left: 1rem
+  }
+  .moreFeatures .tab-content .tab-pane .card
+  {
+      height:auto;
+      min-height: fit-content;
+  }
+  .moreFeatures .tab-content .tab-pane .card a
+  {
+    position:static
+  }
+  .subscribe .card
+  {
+    margin-bottom: 15px;
+    padding: 1rem
+  }
+ 
+  .ScrollUpButton__Container
+  {
+    height: 30px!important;
+    width: 30px!important;
+  }
+ 
+  .mfooter a
+  {
+     color: #666666;
+     display: block;
+     line-height: 2rem
+  }
+  .subfooter .col-2,.subfooter .col-10
+  {
+    margin-top: 1.5rem
+  }
+  .moreFeatures .nav-tabs .nav-item.show .nav-link, .moreFeatures .nav-tabs .nav-link.active
+  {
+     border:1px solid #0099cc;
+  }
+  .nav-tabs
+  {
+     border: 0
+  }
+  .subscribe p
+  {
+     min-height: unset
+  }
+  .videoSection .videoLabels
+  {
+     padding: 1rem 0
+  }
+  .customline {
+    margin: 1rem 0!important;
+  }
+  .subscribe .card {
+    min-height:320px
+}
+
+}
+@media (max-width:1024px)
+{
+  .menubar
+  {
+    
+  }
+}
+@media (max-width: 991.98px) {
+  .mobilemenu
+  {
+    display: block
+  }
+  .features
+  {
+      display: block;
+      padding-top: 2.5rem
+  }
+  .features h4
+  {
+     margin-bottom: 0;
+     color: #fff;
+     font-size: 1.2rem;
+     font-weight: bold;
+    
+  }
+  .feature .accordion__title[aria-selected='true'], .accordion__title:hover
+  {
+	background: #7cb542!important;
+}
+  .menubar .dropdown.active > a
+  {
+     position: relative
+  }
+  .menubar .dropdown > a::after
+  {
+    content: '';
+    background: url(icons/icon-arrow-red.png);
+    background-size: contain;
+    width: 10px;
+    height: 6px;
+    position: absolute;
+    top:40%;
+    right:3%
+  }
+  .menubar .nav-item
+  {
+      border-bottom: 1px solid #ddd
+  }
+  .features .card .card-title {
+    font-size: 16px;
+    color: #333;
+    font-family: Artifakt Element Medium;
+  }
+  .features .card .card-text {
+    font-size: 0.875rem;
+    color: #333;
+    font-family: Artifakt Light;
+    line-height: 20px;
+    margin: 0;
+  }
+  .features .card a {
+    color: #333;
+    font-family: Artifakt Element Medium;
+    text-decoration: underline;
+    margin-top: 0.5rem;
+    font-size: 0.8125rem;
+  }
+  .features .card
+  {
+      margin-bottom: 0.75rem
+  }
+  .accordion__body
+  {
+      background: #eee
+  }
+  .moreFeatures
+  {
+     display: none
+  }
+  .menubar .navbar-nav .nav-link
+  {
+    padding:1rem;
+  }
+  .dropdown-menu li a, .logindrp li a
+  {
+    padding:0.5rem 1rem
+  } 
+  .subscribe .card {
+    min-height: auto;
+} 
+.specialToolSection
+{
+  display: none
+}
+.mobiletoolset
+  {
+    display: block;
+    padding: 2rem 0
+  }
+  .mobiletoolset img
+  {
+      border-radius:100%;
+      border: 2px solid #0f9ad9 
+  }
+  .grey-icon
+  {
+    border: 2px solid #787878!important 
+  }
+  .videothumb
+  {
+      display: none;
+  }
+
+  
+.mvideothumb
+{
+  display: block;
+  overflow: hidden;
+  padding: 2rem 0 0
+}
+.mvideothumb p
+{
+   color: #fff;
+   padding: 0.5rem;
+   text-align: center
+}
+
+.slick-prev, .slick-next
+{
+  width: 50px!important;
+  height: 50px!important;
+  z-index: 100;
+ 
+}
+.slick-prev:before, .slick-next:before
+{
+  font-size:3rem!important;
+  color: #000000!important
+}
+.slick-prev
+{
+    left: 0!important
+}
+.slick-next
+{
+  right: 0!important;
+  
+}
+
+}
+
+@media (max-width: 767.98px) {
+  .features h4
+  {
+     margin-bottom: 0;
+     color: #fff;
+     font-size: 1rem;
+     font-weight: bold;
+    
+  }
+
+  .banner
+     {
+    background: url('img/mobilebanner.jpg') no-repeat;
+    padding: 1rem 0;
+    min-height:250px;
+    background-size: 100% 100%;
+    margin-top: 95px
+    }
+  .menubar
+  {
+      padding: 0.5rem 0
+  }
+  .subscribe .card
+  {
+    min-height: unset
+  }
+  .mfooter {
+    display: block;
+    padding: 2rem 0;
+    background: #f6f5f2;
+}
+  .footer{
+    display: none
+  }
+  .banner .linkbtn
+  {
+      margin-bottom: 0.5rem
+  }
+ }
+
+ @media (max-width: 736px){
+  .topbar .hamberger-icon img
+  {
+     margin-top:-3px;
+     width: 22px;
+     margin-left: 5px
+  }
+   .messageWrap{
+     text-align: center;
+   }
+   .autocadlogo
+   {
+      margin-top: 1rem
+   }
+   .messageWrap h2{
+    font-size: 2.5rem;
+    font-weight: 600;
+   }
+   .messageWrap p{
+    margin-bottom: 0;
+    font-size: 1.3rem;
+    text-align: center;
+   }
+  .downloadAutocad{
+    display: block;
+    padding: 2.5rem 0;
+  }
+  .downloadAutocad .form-group label{
+    color: #333333;
+    margin-bottom: 1rem;
+  }
+  .downloadAutocad .form-group input{
+    border-radius: 0;
+    height: 3rem;
+    border-color: #333333;
+  }
+  .downloadAutocad .downLoad{
+    width: 100%;
+    border-radius: 0;
+    height: 3rem;
+    text-align: left;
+    font-size: 1.1rem;
+    background: #cd3333;
+    border: none;
+    position: relative;
+  }
+  .tipsSection{
+    padding-top: 1rem;
+  }
+  .tipsSection .col-sm-6{
+    margin-bottom: 2.5rem;
+  }
+ }
+ @media (max-width: 414px){
+  .tipsSection .tipWrap{
+    width: 100%;
+    margin-bottom: 2.5rem;
+  }
+  .tipsSection .col-sm-6{
+    margin-bottom: 0;
+  }
+
+ }
+
+@media (max-width: 320px) { 
+
+    html
+    {
+       font-size: 13px
+    }
+    .Mobsearch form .col-xs-4{width: 100%; margin-top: 12px}
+    .Mobsearch form .col-xs-8{width: 100%; margin-right: 0px}
+  .menubar h5, .topbar .navbar-brand {
+      padding-left:0.5rem;
+    }
+    .features h4
+    {
+        font-size: 1rem
+    }
+    .mobilemenu a
+    {
+       padding-left: 0.5rem
+    }
+    .mobilemenu img
+    {
+       width: 18px
+    }
+    .material-icons
+    {
+      font-size: 25px
+    }
+ }
+
+ @media (min-width:800px)
+ {
+    .mobiletoolset img
+    {
+        width: 80%;
+    }
+ }
+ 
+@media (max-width: 812px){
+  .tipsSection .tipWrap span{
+    display: inline-block;
+    margin-top: 0.625rem;
+}
+  .tipsSection .tipWrap img{
+    width: 100px;
+  }
+  .mobHide{display: none;}
+  .mobShow{display: block;}
+  .downloadFTbtn, .trialNote{
+    display: none;
+  }
+  .banner.FT-banner .mb-5{
+    margin-bottom: 0!important;
+  }
+  .banner.FT-banner{min-height: 300px}
+}
+@media (max-width: 736px){
+
+  .CQsection .queLinks
+  {
+     padding: 0
+  }
+  .didyouknow
+  {
+      margin-bottom:30px
+  }
+  .banner
+     {
+    background: url('./img/mobilebanner.jpg') no-repeat;
+    padding: 1rem 0;
+    min-height:250px;
+    background-size: 100% 100%;
+  }
+  .topbar .hamberger-icon img
+  {
+     margin-top:-3px;
+     width: 22px;
+     margin-left: 5px
+  }
+   .messageWrap{
+     text-align: center;
+   }
+   .messageWrap h2{
+    font-size: 2.5rem;
+    font-weight: 600;
+   }
+   .messageWrap p{
+    margin-bottom: 0;
+    font-size: 1.3rem;
+    text-align: center;
+   }
+  .downloadAutocad{
+    display: block;
+    padding: 2rem 0;
+  }
+  .downloadAutocad .form-group label{
+    color: #333333;
+    margin-bottom: 1rem;
+  }
+  .downloadAutocad .form-group input{
+    border-radius: 0;
+    height: 3rem;
+    border-color: #333333;
+  }
+  .downloadAutocad .downLoad{
+    width: 100%;
+    border-radius: 0;
+    height: 3rem;
+    text-align: left;
+    font-size: 1.1rem;
+    background: #cd3333;
+    border: none;
+    position: relative;
+  }
+  .tipsSection{
+    padding-top: 1rem;
+  }
+  .tipsSection .col-sm-6{
+    margin-bottom: 2.5rem;
+  }
+  .didyouKnow .col-sm-3{
+    text-align: left;
+  }
+ }
+ @media (max-width: 414px){
+  .tipsSection .tipWrap{
+    width: 100%;
+    margin-bottom: 1.3rem;
+  }
+  .tipsSection .col-sm-6{
+    margin-bottom: 0;
+  }
+  .tipsSection h3{
+    text-align: center;
+  }
+  .banner.FT-banner .mt-5{
+    margin-top: 2rem!important;
+  }
+  .banner.FT-banner {
+    min-height: 260px;
+}
+
+ }
