@@ -1,0 +1,220 @@
+[
+	{
+		"id":1,
+		"title":"FOLLOW AUTODESK",
+		"details":"",
+		"items":[{
+					"name":"Facebook",
+					"link":"https://www.facebook.com/autodesk",
+					"icon":"fb"
+				},
+				{
+					"name":"Instagram",
+					"link":"https://www.instagram.com/autodesk",
+					"icon":"insta"
+				},
+				{
+					"name":"Twitter",
+					"link":"https://twitter.com/autodesk",
+					"icon":"twitter"
+				},
+				{
+					"name":"LinkedIN",
+					"link":"https://www.linkedin.com/company/autodesk",
+					"icon":"ln"
+				},
+				{
+					"name":"Youtube",
+					"link":"https://www.youtube.com/user/Autodesk",
+					"icon":"yt"
+				}
+				]
+	},
+	{
+		"id":2,
+		"title":"PRODUCTS",
+		"details":"",
+		"items":[{
+					"name":"Free product trials",
+					"link":"https://www.autodesk.com/free-trials",
+					"icon":""
+				},
+				{
+					"name":"3D CAD software",
+					"link":"https://www.autodesk.com/solutions/3d-cad-software",
+					"icon":""
+				},
+				{
+					"name":"Civil engineering",
+					"link":"https://www.autodesk.com/collections/architecture-engineering-construction/overview",
+					"icon":""
+				},
+				{
+					"name":"Drafting",
+					"link":"https://www.autodesk.com/products/autocad-lt/overview",
+					"icon":""
+				},
+				{
+					"name":"Manufacturing",
+					"link":"https://www.autodesk.com/solutions/manufacturing",
+					"icon":""
+				},
+				{
+					"name":"Product design",
+					"link":"https://www.autodesk.com/solutions/product-design/overview",
+					"icon":""
+				},
+				{
+					"name":"Find by industry",
+					"link":"https://www.autodesk.com/solutions",
+					"icon":""
+				},
+				{
+					"name":"Industry collections",
+					"link":"https://www.autodesk.com/collections",
+					"icon":""
+				}
+				]
+	},
+	{
+		"id":3,
+		"title":"BUYING",
+		"details":"",
+		"items":[{
+					"name":"Buy online",
+					"link":"https://www.autodesk.com/buy-online",
+					"icon":""
+				},
+				{
+					"name":"Special offers",
+					"link":"https://www.autodesk.com/store/all-promotions",
+					"icon":""
+				},
+				{
+					"name":"Manage your account",
+					"link":"https://www.autodesk.com/store-footer-help-account?mktvar004=ilt_wwm_amer_us_nc__Footer_SupportAssistance_ManageAct",
+					"icon":""
+				},
+				{
+					"name":"Help with buying",
+					"link":"https://help.autodesk.com/view/STORE/ENU/",
+					"icon":""
+				},
+				{
+					"name":"Download your software",
+					"link":"https://www.autodesk.com/store-footer-help-download?mktvar004=ilt_wwm_amer_us_nc__Footer_ShoppingWithUs_DLSoftware#download-info",
+					"icon":""
+				},
+				{
+					"name":"Returns & refunds",
+					"link":"https://www.autodesk.com/store-footer-help-return?mktvar004=ilt_wwm_amer_us_nc__Footer_ShoppingWithUs_OrderReturn#returns-and-cancellations",
+					"icon":"Subscription renewal"
+				},
+				{
+					"name":"Subscription renewal",
+					"link":"https://www.autodesk.com/renewal",
+					"icon":""
+				}
+				]
+	},
+	{
+		"id":4,
+		"title":"SUPPORT & LEARNING",
+		"details":"",
+		"items":[{
+					"name":"Product support",
+					"link":"https://knowledge.autodesk.com/support",
+					"icon":""
+				},
+				{
+					"name":"Software installation, registration & licensing",
+					"link":"https://knowledge.autodesk.com/customer-service/download-install",
+					"icon":""
+				},
+				{
+					"name":"Updates & service packs",
+					"link":"https://knowledge.autodesk.com/downloads",
+					"icon":""
+				},
+				{
+					"name":"System requirements",
+					"link":"https://knowledge.autodesk.com/support/system-requirements",
+					"icon":""
+				},
+				{
+					"name":"Student & educators",
+					"link":"https://www.autodesk.com/education/home?mktvar004=ilt_wwm_amer_us_nc__Footer_SubscNSoftware_EDU",
+					"icon":""
+				},
+				{
+					"name":"Classes on demand",
+					"link":"http://au.autodesk.com/au-online/overview",
+					"icon":""
+				},
+				{
+					"name":"Events & training",
+					"link":"https://www.autodesk.com/events",
+					"icon":""
+				},
+				{
+					"name":"Training & certification",
+					"link":"https://www.autodesk.com/training-and-certification/overview",
+					"icon":""
+				},
+				{
+					"name":"Autodesk University",
+					"link":"http://au.autodesk.com/?mktvar004=ilt_wwm_amer_us_nc__Footer_ADSK_AU",
+					"icon":""
+				}
+				]
+	},
+	{
+		"id":5,
+		"title":"AUTODESK",
+		"details":"Autodesk is a leader in 3D design, engineering and entertainment software.",
+		"items":[{
+					"name":"About us",
+					"link":"https://www.autodesk.com/company",
+					"icon":""
+				},
+				{
+					"name":"Careers",
+					"link":"https://www.autodesk.com/careers",
+					"icon":""
+				},
+				{
+					"name":"Contact us",
+					"link":"https://www.autodesk.com/company/contact-us",
+					"icon":""
+				},
+				{
+					"name":"Investor relations",
+					"link":"http://investors.autodesk.com/",
+					"icon":""
+				},
+				{
+					"name":"Trust center",
+					"link":"https://www.autodesk.com/trust/overview",
+					"icon":""
+				},
+				{
+					"name":"Newsroom",
+					"link":"http://news.autodesk.com/",
+					"icon":""
+				},
+				{
+					"name":"Suppliers",
+					"link":"https://www.autodesk.com/company/suppliers",
+					"icon":""
+				},
+				{
+					"name":"Affiliate program",
+					"link":"https://www.autodesk.com/affiliate-program/overview",
+					"icon":""
+				}
+				]
+	}
+]
+
+
+	
